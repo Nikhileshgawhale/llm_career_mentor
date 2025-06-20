@@ -1,0 +1,31 @@
+{
+  "daily_goals": {
+    "2025-06-19": {
+      "goal": "As an aspiring AI Engineer focused on LLMs and GenAI, my daily goal for you is to dedicate 30 minutes each day to learning and skill-building. This can include reading articles, watching tutorials, or working on small projects that challenge your understanding of AI concepts.",
+      "resources": [
+        {
+          "title": "https://www.youtube.com/playlist?list=PLE6Xz-Prolo-mw0ame7LTY",
+          "url": "https://www.youtube.com/playlist?list=PLE6Xz-Prolo-mw0ame7LTY"
+        },
+        {
+          "title": "https://huggingface.co/docs/transformers/index",
+          "url": "https://huggingface.co/docs/transformers/index"
+        },
+        {
+          "title": "https://www.alignmentforum.org/posts/FX6k4jJF2i9H5WvR4/ai-alignment-forum",
+          "url": "https://www.alignmentforum.org/posts/FX6k4jJF2i9H5WvR4/ai-alignment-forum"
+        }
+      ],
+      "project_step": "For your project step, I recommend working on a small task that combines LLMs and GenAI concepts. Here's an idea:\n\n**Task:** Implement a simple language model using Hugging Face Transformers to predict the next word in a sentence. You can use a pre-trained model like BERT or RoBERTa as a starting point.\n\n**Step:**\n\n1. Install the Hugging Face library and load a pre-trained language model.\n2. Prepare a dataset of sentences with labeled outputs (e.g., \"What is...\" -> \"your name?\"\").\n3. Implement a simple prediction algorithm using the loaded language model to predict the next word in each sentence.\n4. Evaluate your model's performance on a test set and experiment with different hyperparameters to improve its accuracy.\n\nRemember to keep your project small and manageable, focusing on learning and experimentation rather than achieving perfection. Good luck!"
+    }
+  },
+  "resume": "[Resume text extracted here]",
+  "interactions": {
+    "2025-06-19": [
+      {
+        "question": "for tommorow",
+        "answer": "Based on your resume, I'll provide guidance for tomorrow.\n\n## Goal\nTo help you make progress on your project and strengthen your skills in LLM/GenAI engineering.\n\nTomorrow's goal is to:\n\n* Complete a task that demonstrates your expertise in [specific area of LLM/GenAI], such as fine-tuning a model or implementing a specific algorithm.\n* Review the project requirements and outline, ensuring you're on track to meet the expected outcomes.\n\n## Resources\nHere are some top resources to help you achieve tomorrow's goal:\n\n### LLM/GenAI Tutorials and Guides\n\n* Hugging Face's Transformers Documentation: [https://huggingface.co/docs/transformers/index.html](https://huggingface.co/docs/transformers/index.html)\n* TensorFlow's Tutorial on LLMs: [https://www.tensorflow.org/tutorials/large_language_models](https://www.tensorflow.org/tutorials/large_language_models)\n\n### Project Step\nTo help you stay focused and make progress, I've broken down the task into smaller, manageable steps. Here's your project step for tomorrow:\n\n1. Review the project requirements and outline to clarify any doubts or concerns.\n2. Focus on fine-tuning a specific model (e.g., BERT or RoBERTa) using Hugging Face's Transformers library.\n3. Implement a specific algorithm or technique (e.g., prompt engineering or text classification) to demonstrate your expertise in LLM/GenAI.\n\nRemember to:\n\n* Break down the task into smaller, manageable chunks\n* Set aside dedicated time for focused work\n* Review and adjust your approach as needed\n\nStay motivated, and I'll be here to guide you through the process!"
+      }
+    ]
+  }
+}
